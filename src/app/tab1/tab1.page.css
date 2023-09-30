@@ -1,0 +1,15 @@
+#titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.botaoCompra{
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.corpreco{
+    color: white;
+}
+

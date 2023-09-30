@@ -1,0 +1,7 @@
+{
+  "name": "AppHistoria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
